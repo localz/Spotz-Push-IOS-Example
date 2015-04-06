@@ -1,0 +1,14 @@
+PODS:
+  - SpotzPushSDK (1.0.0.0)
+
+DEPENDENCIES:
+  - SpotzPushSDK (from `../SpotzPushSDK`)
+
+EXTERNAL SOURCES:
+  SpotzPushSDK:
+    :path: ../SpotzPushSDK
+
+SPEC CHECKSUMS:
+  SpotzPushSDK: 55849637f5bf7d320763aaa7f47e5375335b2241
+
+COCOAPODS: 0.35.0
